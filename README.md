@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Mishahal, a Data Enthusiast. I’m leanring and interested in Data Engineering and Data Science. 
+- 👋 Hi, I’m Mishahal, a Data Enthusiast.
+- I’m interested in Data Engineering and Data Science. 
 - 📫 How to reach me on [Linkedin](https://www.linkedin.com/in/mishalsalim/)
 
 <!---
