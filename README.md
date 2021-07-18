@@ -1,9 +1,11 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishalsalim/) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the.bat.gamer) ![](https://visitor-badge.laobi.icu/badge?page_id=thebadcoder96.thebadcoder96) 
+
 - 👋 Hi, I’m Mishahal, a Data Enthusiast.
 - I’m interested in Data Engineering and Data Science. 
-- 📫 You can reach me on 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishalsalim/) or 
-[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the.bat.gamer) 
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mishalsalim/).
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebadcoder96&theme=tokyonight)
 
 <!-- [![Facebook](https://img.shields.io/badge/Facebook-add-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/name) 
 [![Quora](https://img.shields.io/badge/Quora-ask-red.svg?logo=quora)](https://www.quora.com/profile/name) 
