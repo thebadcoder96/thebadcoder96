@@ -1,8 +1,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishalsalim/) [![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/the.bat.gamer) ![](https://visitor-badge.laobi.icu/badge?page_id=thebadcoder96.thebadcoder96) 
 
-- 👋 Hi, I’m Mishahal, a Data Enthusiast.
-- 🌱 I’m interested in Data Analytics and Data Science.
-- 🎮 I love Comic Books, Gaming and learning about random subjects (open to collaborating in projects as well)
+- 👋 Hi, I’m a Data Enthusiast and a gamer.
+- 🎮 I love comic books, movies, gaming and learning about random subjects (open to collaborating in projects as well)
+- 🌱 I’m interested in Data Analytics, Data Science and anything realted to data.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mishalsalim/).
 
 
