@@ -1,8 +1,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishalsalim/) ![](https://visitor-badge.laobi.icu/badge?page_id=thebadcoder96.thebadcoder96) 
 
 - 👋 Hi, I’m a Data Enthusiast and a gamer.
-- 🎮 I love comic books, movies, gaming and learning about random subjects (open to collaborating in projects as well)
-- 🌱 I’m interested in Data Analytics, Data Science and anything realted to data.
+- 🎮 I love comic books, movies, gaming, and learning about random subjects.
+- 🌱 I’m interested in Data Analytics, Data Science, and anything related to data.
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mishalsalim/).
 
 
