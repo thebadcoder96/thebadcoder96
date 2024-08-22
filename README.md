@@ -1,5 +1,4 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishalsalim/) 
-[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=flat&logo=substack&logoColor=white)](https://thebadcoder.substack.com) [![Youtube](https://img.shields.io/badge/YouTube-subscribe-red)](https://www.youtube.com/@thebadcoder96)  ![](https://visitor-badge.laobi.icu/badge?page_id=thebadcoder96.thebadcoder96) 
+[![Substack](https://img.shields.io/badge/Substack-Subscribe-orange?style=flat&logo=substack&logoColor=white)](https://thebadcoder.substack.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishalsalim/)  [![Youtube](https://img.shields.io/badge/YouTube-subscribe-red)](https://www.youtube.com/@thebadcoder96)  ![](https://visitor-badge.laobi.icu/badge?page_id=thebadcoder96.thebadcoder96) 
 ## Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> 
 
 - 📈 I’m interested in Data Analytics, Data Science, and anything related to data.
